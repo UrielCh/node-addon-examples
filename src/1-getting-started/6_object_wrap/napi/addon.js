@@ -1,5 +1,5 @@
 /**
- * @type {import('./type')}
+ * @type {import('../type')}
  */
 var addon = require('bindings')('addon');
 
